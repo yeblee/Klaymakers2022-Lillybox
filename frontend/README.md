@@ -35,7 +35,7 @@ yarn dev
 
 ### Deployed via Vercel
 
-Open [klaymakers2022-lillybox](https://klaymakers2022-lillybox.vercel.app/) to check out the production version
+Open [klaymakers2022-lillybox](https://lillybox.vercel.app/) to check out the production version
 
 <br />
 <br />
@@ -47,7 +47,7 @@ Open [klaymakers2022-lillybox](https://klaymakers2022-lillybox.vercel.app/) to c
 
 ### Main Page
 
-#### `localhost:3000` or `https://klaymakers2022-lillybox.vercel.app`
+#### `localhost:3000` or `https://lillybox.vercel.app`
 
 - Click the video to watch the video page.
 - Click the video button next to the alarm button go to the upload page.
@@ -60,7 +60,7 @@ Open [klaymakers2022-lillybox](https://klaymakers2022-lillybox.vercel.app/) to c
 
 ### Upload Page
 
-#### `localhost:3000/upload` or `https://klaymakers2022-lillybox.vercel.app/upload`
+#### `localhost:3000/upload` or `https://lillybox.vercel.app/upload`
 
 - You can upload videos.
 
@@ -71,7 +71,7 @@ Open [klaymakers2022-lillybox](https://klaymakers2022-lillybox.vercel.app/) to c
 
 ### Video Watch Page
 
-`http://localhost:3000/watch/[id]` or `https://di-uni-blog.vercel.app/watch/[id]`
+#### `http://localhost:3000/watch/[id]` or `https://lillybox.vercel.app/watch/[id]`
 
 - You can watch the video, write comments and donate.
 
@@ -83,7 +83,7 @@ Open [klaymakers2022-lillybox](https://klaymakers2022-lillybox.vercel.app/) to c
 
 ### Wallet Page
 
-#### `http://localhost:3000/wallet` or `https://di-uni-blog.vercel.app/wallet`
+#### `http://localhost:3000/wallet` or `https://lillybox.vercel.app/wallet`
 
 - 1: Your address.
 - 2: Your nickname.
